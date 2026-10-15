@@ -1,2 +1,3 @@
-print("Hello, World!")
-print("I am learning Python!")
+name = input("What is your name? ")
+print("Hello,", name)
+print("Welcome to Python programming!")
